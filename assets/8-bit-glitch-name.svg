@@ -20,20 +20,20 @@
       font-size: 56px;
       font-weight: 900;
       fill: #00d6c9;
-      animation: base-glitch 3.4s infinite steps(1);
+      animation: base-glitch 4.8s infinite steps(1);
     }
 
     /* ================= SPLIT GLITCH LAYERS ================= */
     .split-a {
       fill: #ff0033;
       opacity: 0;
-      animation: split-a 3.4s infinite steps(1);
+      animation: split-a 4.8s infinite steps(1);
     }
 
     .split-b {
       fill: #ffae00;
       opacity: 0;
-      animation: split-b 3.4s infinite steps(1);
+      animation: split-b 4.8s infinite steps(1);
     }
 
     /* ================= ERROR TEXT ================= */
@@ -41,7 +41,7 @@
       font-size: 20px;
       font-weight: 700;
       opacity: 0;
-      animation: error-flash 3.4s infinite steps(1);
+      animation: error-flash 4.8s infinite steps(1);
     }
 
     .err-red { fill: #ff0033; }
@@ -52,7 +52,7 @@
       font-size: 16px;
       fill: #00ff88;
       opacity: 0;
-      animation: matrix-out 3.4s infinite steps(1);
+      animation: matrix-out 4.8s infinite steps(1);
     }
 
     /* ================= ALT IDENTITY ================= */
@@ -61,65 +61,68 @@
       font-weight: 900;
       fill: #00ff99;
       opacity: 0;
-      animation: alt-flash 3.4s infinite steps(1);
+      animation: alt-flash 4.8s infinite steps(1);
     }
 
     /* ================= ANIMATIONS ================= */
 
     @keyframes base-glitch {
       0%   { transform: translate(0,0); fill:#00d6c9; }
-      78%  { transform: translate(0,0); }
-      80%  { transform: translate(-3px,1px); fill:#00ffa2; }
-      82%  { transform: translate(4px,-2px); fill:#ff0033; }
-      84%  { transform: translate(-2px,2px); fill:#ffae00; }
-      86%  { transform: translate(0,0); fill:#00d6c9; }
+      65%  { transform: translate(0,0); }
+      68%  { transform: translate(-4px,1px); fill:#00ffa2; }
+      72%  { transform: translate(5px,-2px); fill:#ff0033; }
+      76%  { transform: translate(-3px,2px); fill:#ffae00; }
+      82%  { transform: translate(2px,-1px); fill:#00ffa2; }
+      88%  { transform: translate(0,0); fill:#00d6c9; }
       100% { transform: translate(0,0); }
     }
 
     @keyframes split-a {
       0% { opacity:0; }
-      80% { opacity:0.8; transform: translate(-6px,0); }
-      82% { opacity:0.8; transform: translate(6px,-2px); }
-      85% { opacity:0; }
+      68% { opacity:0; }
+      70% { opacity:0.85; transform: translate(-7px,0); }
+      78% { opacity:0.85; transform: translate(7px,-2px); }
+      86% { opacity:0; }
       100% { opacity:0; }
     }
 
     @keyframes split-b {
       0% { opacity:0; }
-      81% { opacity:0.7; transform: translate(5px,1px); }
-      83% { opacity:0.7; transform: translate(-5px,2px); }
-      86% { opacity:0; }
+      69% { opacity:0; }
+      71% { opacity:0.75; transform: translate(6px,2px); }
+      80% { opacity:0.75; transform: translate(-6px,3px); }
+      87% { opacity:0; }
       100% { opacity:0; }
     }
 
     @keyframes error-flash {
       0% { opacity:0; }
-      79% { opacity:0; }
-      81% { opacity:1; }
-      86% { opacity:1; }
-      89% { opacity:0; }
+      67% { opacity:0; }
+      71% { opacity:1; }
+      83% { opacity:1; }
+      88% { opacity:0; }
       100% { opacity:0; }
     }
 
     @keyframes matrix-out {
       0% { opacity:0; transform: translateY(0); }
-      79% { opacity:0; }
-      81% { opacity:0.8; transform: translateY(-20px); }
-      83% { opacity:0.8; transform: translateY(30px); }
-      86% { opacity:0; transform: translateY(0); }
+      67% { opacity:0; }
+      71% { opacity:0.8; transform: translateY(-22px); }
+      80% { opacity:0.8; transform: translateY(32px); }
+      88% { opacity:0; transform: translateY(0); }
       100% { opacity:0; }
     }
 
     @keyframes alt-flash {
       0% { opacity:0; }
-      82% { opacity:0; }
-      83% { opacity:1; }
-      84% { opacity:0; }
+      72% { opacity:0; }
+      75% { opacity:1; }
+      77% { opacity:0; }
       100% { opacity:0; }
     }
   </style>
 
-  <!-- ================= ALT IDENTITY (1 FRAME) ================= -->
+  <!-- ================= ALT IDENTITY (VISIBLE LONGER) ================= -->
   <text x="50%" y="70%" text-anchor="middle" class="alt">
     TECHYPOETIC
   </text>
@@ -144,7 +147,7 @@
     ERROR: Python unavailable
   </text>
 
-  <text x="50%" y="96%" text-anchor="middle"
+<text x="50%" y="96%" text-anchor="middle"
         class="error err-purple">
     ERROR 505: AWS not found
   </text>
