@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="./assets/svg-files/8-bit-ocean-divider.svg"
+    src="./assets/svg-files/8-bit-ocean-wave-divider.svg"
     alt="8-bit-ocean-divider"
     width="80%"
     height="20"
