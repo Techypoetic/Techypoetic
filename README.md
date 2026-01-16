@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/8-bit-glitch-name-v2.svg" alt="O.M Urhierefe / TechyPoetic glitch banner" />
+  <img src="./assets/svg-files/8-bit-glitch-name-v2.svg" alt="O.M Urhierefe / TechyPoetic glitch banner" />
 </p>
 
 <p align="center">
