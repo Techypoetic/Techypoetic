@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./assets/glitch-name.svg" alt="O.M Urhierefe / TechyPoetic glitch banner" />
+  <img src="./assets/8-bit-glitch-name.svg" alt="O.M Urhierefe / TechyPoetic glitch banner" />
 </p>
 
 <p align="center">
