@@ -8,6 +8,15 @@
 </p>
 
 <p align="center">
+  <img
+    src="./assets/svg-files/8-bit-ocean-divider.svg"
+    alt="8-bit-ocean-divider"
+    width="80%"
+    height="20"
+  />
+</p>
+
+<p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Says+O.M+Urhierefe.;Press+Start+to+Enter;Loading+Clouds...;Spawning+Containers...;Initializing+Terraform..."
   />
