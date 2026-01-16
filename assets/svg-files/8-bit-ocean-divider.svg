@@ -1,44 +1,56 @@
-<svg width="100%" height="10" viewBox="0 0 1200 10"
+<svg width="100%" height="20" viewBox="0 0 1200 20"
      xmlns="http://www.w3.org/2000/svg"
      shape-rendering="crispEdges">
 
-  <defs>
-    <!-- Moving gradient -->
-    <linearGradient id="oceanFlow" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#00d6c9"/>
-      <stop offset="25%" stop-color="#00ff99"/>
-      <stop offset="50%" stop-color="#00d6c9"/>
-      <stop offset="75%" stop-color="#00ff99"/>
-      <stop offset="100%" stop-color="#00d6c9"/>
+  <style>
+    /* Each wave column is a pixel block group */
+    .wave {
+      fill: #00d6c9;
+    }
+    .wave-alt {
+      fill: #00ff99;
+    }
 
-      <animateTransform
-        attributeName="gradientTransform"
-        type="translate"
-        from="0 0"
-        to="-600 0"
-        dur="3s"
-        repeatCount="indefinite" />
-    </linearGradient>
-  </defs>
+    /* Animation keyframes for horizontal movement */
+    @keyframes moveWave {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-48px); }
+    }
 
-  <!-- Pixel wave blocks -->
-  <rect x="0" y="2" width="1200" height="6" fill="url(#oceanFlow)" />
+    .wave-group {
+      animation: moveWave 1.5s linear infinite;
+    }
+  </style>
 
-  <!-- Subtle pixel noise -->
-  <g opacity="0.25">
-    <rect x="100" y="2" width="4" height="6" fill="#00ff99"/>
-    <rect x="300" y="2" width="4" height="6" fill="#00d6c9"/>
-    <rect x="520" y="2" width="4" height="6" fill="#00ff99"/>
-    <rect x="760" y="2" width="4" height="6" fill="#00d6c9"/>
-    <rect x="980" y="2" width="4" height="6" fill="#00ff99"/>
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="-120 0"
-      dur="1.5s"
-      repeatCount="indefinite" />
+  <!-- Base waves group -->
+  <g class="wave-group">
+    <!-- Repeat blocks across width -->
+    <!-- Each column is 4px wide with varying heights -->
+    <rect x="0" y="10" width="4" height="10" class="wave"/>
+    <rect x="4" y="12" width="4" height="8" class="wave-alt"/>
+    <rect x="8" y="8" width="4" height="12" class="wave"/>
+    <rect x="12" y="14" width="4" height="6" class="wave-alt"/>
+    <rect x="16" y="9" width="4" height="11" class="wave"/>
+    <rect x="20" y="13" width="4" height="7" class="wave-alt"/>
+    <rect x="24" y="11" width="4" height="9" class="wave"/>
+    <rect x="28" y="8" width="4" height="12" class="wave-alt"/>
+    <rect x="32" y="15" width="4" height="5" class="wave"/>
+    <rect x="36" y="12" width="4" height="8" class="wave-alt"/>
+    <rect x="40" y="10" width="4" height="10" class="wave"/>
+    <rect x="44" y="14" width="4" height="6" class="wave-alt"/>
+    <!-- Repeat until 1200px width -->
+    <use href="#repeatBlock" x="48"/>
+    <use href="#repeatBlock" x="96"/>
+    <use href="#repeatBlock" x="144"/>
   </g>
 
+  <!-- Optional glitch overlay -->
+  <g class="wave-group" opacity="0.2">
+    <rect x="0" y="5" width="4" height="15" fill="#ff0033">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-48 0" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="12" y="8" width="4" height="12" fill="#ffae00">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-48 0" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>
