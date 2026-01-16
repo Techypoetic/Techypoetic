@@ -1,0 +1,48 @@
+<svg width="100%" height="60" viewBox="0 0 1200 60"
+     xmlns="http://www.w3.org/2000/svg"
+     shape-rendering="crispEdges">
+  <rect width="1200" height="60" fill="#0d1117"/>
+  <style>
+    .line {
+      fill: none;
+      stroke: #00d6c9;
+      stroke-width: 2;
+      stroke-linejoin: bevel;
+      stroke-linecap: square;
+    }
+    .line-glitch {
+      fill: none;
+      stroke: #00ff99;
+      stroke-width: 2;
+      stroke-linejoin: bevel;
+      stroke-linecap: square;
+      opacity: 0.3;
+    }
+    @keyframes pulse {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-120px); }
+    }
+    .animate-line {
+      animation: pulse 1s linear infinite;
+    }
+  </style>
+  
+  <!-- Main heartbeat line -->
+  <polyline class="line animate-line"
+    points="
+      0,30 40,30 60,20 80,40 100,30 140,30 160,24 180,36 200,30 240,30 260,22 280,38 300,30 340,30
+      360,20 380,40 400,30 440,30 460,24 480,36 500,30 540,30 560,22 580,38 600,30 640,30 660,20 
+      680,40 700,30 740,30 760,24 780,36 800,30 840,30 860,22 880,38 900,30 940,30 960,20 980,40 
+      1000,30 1040,30 1060,24 1080,36 1100,30 1140,30 1160,22 1180,38 1200,30
+    "/>
+  
+  <!-- Glitch overlay line -->
+  <polyline class="line-glitch animate-line"
+    points="
+      0,30 20,28 40,32 60,22 80,38 100,30 120,26 140,40 160,30 180,20 200,36 220,30 240,28 260,38 
+      280,30 300,28 320,32 340,22 360,38 380,30 400,26 420,40 440,30 460,20 480,36 500,30 520,28 
+      540,38 560,30 580,28 600,32 620,22 640,38 660,30 680,26 700,40 720,30 740,20 760,36 780,30 
+      800,28 820,38 840,30 860,28 880,32 900,22 920,38 940,30 960,26 980,40 1000,30 1020,20 1040,36 
+      1060,30 1080,28 1100,38 1120,30 1140,28 1160,32 1180,22 1200,30
+    "/>
+</svg>
