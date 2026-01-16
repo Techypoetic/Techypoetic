@@ -1,50 +1,129 @@
-# 👋 Hi, I'm O.M Urhierefe 
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="./assets/glitch-name.svg" alt="O.M Urhierefe / TechyPoetic glitch banner" />
+</p>
 
-Cloud Support Engineer | Infrastructure Automation Enthusiast
-
-🌩️ Building reliable, scalable cloud infrastructure one commit at a time  
-🐧 Linux advocate | Python automator | Terraform practitioner  
-📚 Currently deepening: Kubernetes, observability patterns, and AI-assisted cloud operations
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Says+O.M+Urhierefe.;Press+Start+to+Enter;Loading+Clouds...;Spawning+Containers...;Initializing+Terraform..."
+  />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+> I write code like verses,  
+> indentation is my rhythm.  
+>  
+> My name is TechyPoetic —  
+> techy by profession, poetic by instinct.  
+>  
+> I bend clouds into shape,  
+> whisper order into chaos,  
+> and turn YAML dreams into running systems.  
+>  
+> If it scales, deploys, or automates itself…  
+> I probably smiled while building it.
 
-Cloud: AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch) | GCP Basics  
-IaC: Terraform | CloudFormation | Ansible  
-Languages: Python | Bash | YAML | JSON  
-Containers: Docker | Kubernetes (EKS)  
-Monitoring: CloudWatch | ELK Stack | Grafana  
-CI/CD: GitHub Actions | Jenkins  
+---
 
+## 🛠️ Skill Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,linux,aws,gcp,terraform,docker,kubernetes,yaml,json&theme=dark" />
+</p>
+
+---
+
+## 🚀 Projects I’m Building in 2026
+
+### 🌍 Terraform Projects
+
+1. Multi-Environment AWS Infrastructure  
+Provision reusable infrastructure across dev / staging / prod using Terraform modules.  
+Includes:
+- VPC
+- EC2
+- RDS
+- S3  
+Focus: modules, workspaces, remote state & best practices.
+
+2. Self-Service Infrastructure Platform  
+A Terraform setup that lets teams spin up complete application stacks using variables.  
+Includes:
+- Load balancer
+- Compute
+- Database  
+Built to simulate real-world internal platform tooling.
+
+---
+
+### 🐳 Docker Projects
+
+1. Multi-Container Development Environment  
+Dockerized full-stack app using docker-compose.  
+Stack:
+- Node.js API
+- React frontend
+- PostgreSQL  
+Features hot-reloading, dev/prod optimizations, and clean container networking.
+
+2. Microservices Image Pipeline  
+A set of 3–4 microservices with:
+- Multi-stage Docker builds
+- Layer caching
+- Security-aware Dockerfiles  
+Automated builds via GitHub Actions.
+
+---
+
+### ☸️ Kubernetes Projects
+
+1. Deploy & Scale a Web Application  
+Deploy a containerized app on Minikube / Kind using:
+- Deployments
+- Services
+- ConfigMaps
+- Secrets  
+Includes rolling updates & Horizontal Pod Autoscaling.
+
+2. GitOps Deployment Pipeline  
+Full GitOps workflow using ArgoCD or Flux.  
+Features:
+- Automated deployments from Git
+- Environment separation
+- Namespace isolation  
+Built like real production infra.
+
+---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Techy-poetic&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-## 📫 Connect With Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Techy_poetic)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mcdennison.urhierefe.o@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techy-poetic&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-💡 *"Infrastructure as Code is not just about automation—it's about reliability, repeatability, and resilience."*
+## 🧭 Philosophy
+
+> Build things that explain themselves.  
+> Automate what repeats.  
+> Version what matters.  
+> And leave systems cleaner than you found them.
+
+---
+
+<p align="center">
+  <i>Let the cloud be orderly, and the code poetic.</i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
