@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="./assets/svg-files/8-bit-ocean-divider.svg"
+    src="./assets/svg-files/8-bit-heart-jumper-divider.svg"
     alt="8-bit-ocean-divider"
     width="80%"
     height="20"
@@ -18,26 +18,96 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Says+O.M+Urhierefe.;Press+Start+to+Enter;Loading+Clouds...;Spawning+Containers...;Initializing+Terraform..."
+    src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+To+My+World;Scroll+Down+to+Enter;Loading+Cloud+Enviroment...;Spawning+Containers...;Initializing+Terraform..."
   />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Techypoetic&color=00FF99)
+[![GitHub followers](https://img.shields.io/github/followers/Techy-poetic?label=Follow&style=social)](https://github.com/Techy-poetic)
 ---
 
-## 🧠 About Me
+<p align="center">  
+  <img src="./assets/svg-files/8bit-heartbeat-ocean.svg" width="85%" height="20" />  
+</p>
 
-> I write code like verses,  
-> indentation is my rhythm.  
->  
-> My name is TechyPoetic —  
-> techy by profession, poetic by instinct.  
->  
-> I bend clouds into shape,  
-> whisper order into chaos,  
-> and turn YAML dreams into running systems.  
->  
-> If it scales, deploys, or automates itself…  
-> I probably smiled while building it.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=ABOUT+ME" alt="About Me" />
+</div>
+
+<div align="center">
+<table style="border-collapse: collapse; font-family: 'Courier New', monospace; margin: 0 auto;">
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ I completed the <strong>Meta Programming in Python</strong> course on Coursera 🐍
+    </td>
+  </tr>
+  <tr style="background-color: #2d2d2d;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ and I am graduating with a <strong>Diploma in Cloud Engineering</strong> from AltSchool in March 2026 ☁️
+    </td>
+  </tr>
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ &nbsp;
+    </td>
+  </tr>
+  <tr style="background-color: #2d2d2d;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ I am passionate about sharing my expertise and open to collaborating on
+    </td>
+  </tr>
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ interesting ideas and meaningful projects.
+    </td>
+  </tr>
+  <tr style="background-color: #2d2d2d;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ &nbsp;
+    </td>
+  </tr>
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ Outside of tech, I enjoy reading, watching dramas, and writing
+    </td>
+  </tr>
+  <tr style="background-color: #2d2d2d;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ both creative pieces and technical content ✍️
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center">  
+  <img src="./assets/svg-files/8-bit-heart-jumper-divider.svg" width="65%" height="16" />  
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=LET'S+CONNECT" alt="Let's Connect" />
+</div>
+
+<div align="center">
+<table style="border-collapse: collapse; font-family: 'Courier New', monospace; margin: 0 auto;">
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ I'm just a click away 📡
+    </td>
+  </tr>
+  <tr style="background-color: #2d2d2d;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+     techypoetic@github:~$ Feel free to reach out if you want to talk tech, collaboration,
+    </td>
+  </tr>
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      techypoetic@github:~$ or explore ideas together.
+    </td>
+  </tr>
+</table>
+</div>
+
+
 
 ---
 
