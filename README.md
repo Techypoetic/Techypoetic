@@ -3,6 +3,7 @@
   <img src="./assets/images/Bruno Pixels(GIF).gif" alt="8-BIT BANNER"/>
 </p>
 
+
 <p align="center">
   <img src="./assets/svg-files/8-bit-glitch-name-v2.svg" alt="O.M Urhierefe / TechyPoetic glitch banner" />
 </p>
@@ -24,11 +25,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Techypoetic&color=00FF99)
 [![GitHub followers](https://img.shields.io/github/followers/Techy-poetic?label=Follow&style=social)](https://github.com/Techy-poetic)
+
 ---
 
-<p align="center">  
-  <img src="./assets/svg-files/8bit-heartbeat-ocean.svg" width="85%" height="20" />  
-</p>
+<!-- ===================== About Me Section ===================== -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=ABOUT+ME" alt="About Me" />
@@ -107,106 +107,117 @@
 </table>
 </div>
 
-
-
----
-
-## 🛠️ Skill Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash,linux,aws,gcp,terraform,docker,kubernetes,yaml,json&theme=dark" />
+  <img src="./assets/images/Pin_by_Noriko_on_2nd_trail_Pixel_art_landscape_Pixel_art_games_Link.gif" alt="8-BIT BANNER"/>
 </p>
 
 ---
 
-## 🚀 Projects I’m Building in 2026
+<!-- ===================== Contact Me section ===================== -->
 
-### 🌍 Terraform Projects
-
-1. Multi-Environment AWS Infrastructure  
-Provision reusable infrastructure across dev / staging / prod using Terraform modules.  
-Includes:
-- VPC
-- EC2
-- RDS
-- S3  
-Focus: modules, workspaces, remote state & best practices.
-
-2. Self-Service Infrastructure Platform  
-A Terraform setup that lets teams spin up complete application stacks using variables.  
-Includes:
-- Load balancer
-- Compute
-- Database  
-Built to simulate real-world internal platform tooling.
-
----
-
-### 🐳 Docker Projects
-
-1. Multi-Container Development Environment  
-Dockerized full-stack app using docker-compose.  
-Stack:
-- Node.js API
-- React frontend
-- PostgreSQL  
-Features hot-reloading, dev/prod optimizations, and clean container networking.
-
-2. Microservices Image Pipeline  
-A set of 3–4 microservices with:
-- Multi-stage Docker builds
-- Layer caching
-- Security-aware Dockerfiles  
-Automated builds via GitHub Actions.
-
----
-
-### ☸️ Kubernetes Projects
-
-1. Deploy & Scale a Web Application  
-Deploy a containerized app on Minikube / Kind using:
-- Deployments
-- Services
-- ConfigMaps
-- Secrets  
-Includes rolling updates & Horizontal Pod Autoscaling.
-
-2. GitOps Deployment Pipeline  
-Full GitOps workflow using ArgoCD or Flux.  
-Features:
-- Automated deployments from Git
-- Environment separation
-- Namespace isolation  
-Built like real production infra.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techy-poetic&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">  
+  <img src="./assets/svg-files/8-bit-heart-jumper-divider.svg" width="85%" height="20" />  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techy-poetic&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=2000&pause=500&color=33FF33&center=true&vCenter=true&width=600&lines=CHOOSE+YOUR+COMMUNICATION+CHANNEL" alt="Header" />
+</div>
+
+<div align="center">
+<table style="border-collapse: collapse; font-family: 'Courier New', monospace; margin: 0 auto; border: 2px solid #33ff33; background-color: #000000;">
+  <tr>
+    <td style="color: #33ff33; padding: 20px; text-align: left; padding-left: 100px;">
+    <img src="https://img.icons8.com/ios-filled/50/33ff33/twitter.png" width="20"/> <strong>X (TWITTER)</strong><br>
+    ║ @Techy_poetic<br>
+    ╚══> <a href="https://x.com/Techy_poetic" style="color: #33ff33; text-decoration: none;">[CONNECT]</a><br>
+<br>
+    <img src="https://img.icons8.com/ios-filled/50/33ff33/discord-logo.png" width="20"/> <strong>DISCORD</strong><br>
+    ║ Join the Server<br>
+    ╚══> <a href="https://discord.gg/exf7PWS3" style="color: #33ff33; text-decoration: none;">[JOIN]</a><br>
+<br>
+    <img src="https://img.icons8.com/ios-filled/50/33ff33/telegram-app.png" width="20"/> <strong>TELEGRAM</strong><br>
+    ║ @Insydusjester<br>
+    ╚══> <a href="http://t.me/Insydusjester" style="color: #33ff33; text-decoration: none;">[MESSAGE]</a><br>
+<br>
+    <img src="https://img.icons8.com/ios-filled/50/33ff33/instagram-new.png" width="20"/> <strong>INSTAGRAM</strong><br>
+    ║ @urhierefe<br>
+    ╚══> <a href="https://www.instagram.com/urhierefe?igsh=MTU0Mm1yN2tuY2FhOQ==" style="color: #33ff33; text-decoration: none;">[FOLLOW]</a><br>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2000&pause=500&color=33FF33&center=true&vCenter=true&width=600&lines=PRESS+[ENTER]+TO+INITIATE+CONNECTION..." alt="Footer" />
+</div>
+
+<p align="center">  
+  <img src="./assets/svg-files/8-bit-heart-jumper-divider.svg" width="85%" height="20" />  
 </p>
 
 ---
 
-## 🧭 Philosophy
+<!-- ===================== Skill Stack Section ===================== -->
 
-> Build things that explain themselves.  
-> Automate what repeats.  
-> Version what matters.  
-> And leave systems cleaner than you found them.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=2000&pause=500&color=33FF33&center=true&vCenter=true&width=600&lines=Entering+My+Skill+Stack" alt="Header" />
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,linux,aws,gcp,terraform,docker,kubernetes&theme=dark" />
+</p>
 
 ---
 
-<p align="center">
-  <i>Let the cloud be orderly, and the code poetic.</i>
-</p>
+<!-- ===================== Projects List (Still in DEV ) ===================== -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=2000&pause=500&color=33FF33&center=true&vCenter=true&width=600&lines=Projects+I'm+Building+Q1+2026" alt="Header" />
+</div>
+
+<div align="center">
+<table style="border-collapse: collapse; font-family: 'Courier New', monospace; margin: 0 auto;">
+  <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      <b>techypoetic@github:~$</b> Expected completion January 20th
+    </td>
+  </tr>
+  <tr style="background-color: #2d2d2d;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      <b>techypoetic@github:~$</b> Expected Completion January 30th
+    </td>
+    <tr style="background-color: #1a1a1a;">
+    <td style="color: #33ff33; padding: 12px; font-size: 16px;">
+      <b>techypoetic@github:~$</b> More Expected in Febuary
+    </td>
+
+  </tr>
+</table>
+</div>
+
+
+---
+
+<!-- ===================== GitHub Stats ===================== -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Techypoetic&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techypoetic&layout=compact&theme=tokyonight&hide_border=true" width="500" />
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=See+You+When+it+All+Crashes" alt="Farewell message" />
+</div>
 
 <!-- ===================== FOOTER ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="./assets/images/Japanese Wheat Field(GIF).gif" alt="8-BIT BANNER"/>
 </p>
