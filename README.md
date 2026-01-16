@@ -204,10 +204,12 @@
 
 <!-- ===================== GitHub Stats ===================== -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techypoetic&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techypoetic&layout=compact&theme=tokyonight&hide_border=true" width="500" />
-</div>
+<!-- GitHub Stats -->
+![Snake animation](https://github.com/Techypoetic/Techypoetic/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- Top Languages -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Techypoetic/github-readme-stats)
 
 
 ---
