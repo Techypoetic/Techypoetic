@@ -24,7 +24,7 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Techypoetic&color=00FF99)
-[![GitHub followers](https://img.shields.io/github/followers/Techy-poetic?label=Follow&style=social)](https://github.com/Techy-poetic)
+[![GitHub followers](https://img.shields.io/github/followers/Techy-poetic?label=Follow&style=social)](https://github.com/Techypoetic)
 
 ---
 
