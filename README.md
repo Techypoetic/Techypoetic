@@ -205,7 +205,7 @@
 <!-- ===================== GitHub Stats ===================== -->
 
 <!-- GitHub Stats -->
-![Snake animation](https://github.com/Techypoetic/Techypoetic/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Techypoetic/Techypoetic/output/github-contribution-grid-snake.svg)
 
 
 <!-- Top Languages -->
