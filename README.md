@@ -43,17 +43,17 @@
   </tr>
   <tr style="background-color: #2d2d2d;">
     <td style="color: #33ff33; padding: 12px; font-size: 16px;">
-      techypoetic@github:~$ and I am graduating with a <strong>Diploma in Cloud Engineering</strong> from AltSchool in March 2026 ☁️
+      techypoetic@github:~$ I'm graduating with a <strong>Diploma in Cloud Engineering</strong> from AltSchool in March 2026 ☁️
     </td>
   </tr>
   <tr style="background-color: #1a1a1a;">
     <td style="color: #33ff33; padding: 12px; font-size: 16px;">
-      techypoetic@github:~$ &nbsp;
+      &nbsp;
     </td>
   </tr>
   <tr style="background-color: #2d2d2d;">
     <td style="color: #33ff33; padding: 12px; font-size: 16px;">
-      techypoetic@github:~$ I am passionate about sharing my expertise and open to collaborating on
+      techypoetic@github:~$ I am passionate about sharing my expertise and open to collaborating on/
     </td>
   </tr>
   <tr style="background-color: #1a1a1a;">
@@ -63,12 +63,12 @@
   </tr>
   <tr style="background-color: #2d2d2d;">
     <td style="color: #33ff33; padding: 12px; font-size: 16px;">
-      techypoetic@github:~$ &nbsp;
+      &nbsp;
     </td>
   </tr>
   <tr style="background-color: #1a1a1a;">
     <td style="color: #33ff33; padding: 12px; font-size: 16px;">
-      techypoetic@github:~$ Outside of tech, I enjoy reading, watching dramas, and writing
+      techypoetic@github:~$ Outside of tech, I enjoy reading, watching dramas, and writing/
     </td>
   </tr>
   <tr style="background-color: #2d2d2d;">
