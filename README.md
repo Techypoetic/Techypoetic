@@ -207,11 +207,6 @@
 <!-- GitHub Stats -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Techypoetic/Techypoetic/output/github-contribution-grid-snake.svg)
 
-
-<!-- Top Languages -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Techypoetic/github-readme-stats)
-
-
 ---
 
 <div align="center">
