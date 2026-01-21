@@ -183,7 +183,7 @@
 <table style="border-collapse: collapse; font-family: 'Courier New', monospace; margin: 0 auto;">
   <tr style="background-color: #1a1a1a;">
     <td style="color: #33ff33; padding: 12px; font-size: 16px;">
-      <b>techypoetic@github:~$</b> Expected completion January 20th
+      <b>techypoetic@github:~$</b> Expected completion January 25th
     </td>
   </tr>
   <tr style="background-color: #2d2d2d;">
